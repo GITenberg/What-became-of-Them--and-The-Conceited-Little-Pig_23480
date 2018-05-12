@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '25874'
     url: http://www.gutenberg.org/2009/agents/25874
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23480#What-became-of-Them--and-The-Conceited-Little-Pig
 gutenberg_issued: '2007-11-15'
 gutenberg_type: Text
 identifiers:
