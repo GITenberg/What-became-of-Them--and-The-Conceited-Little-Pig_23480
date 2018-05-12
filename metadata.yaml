@@ -1,0 +1,30 @@
+_repo: What-became-of-Them--and-The-Conceited-Little-Pig_23480
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Lockyer, A. M.
+    gutenberg_agent_id: '25873'
+    url: http://www.gutenberg.org/2009/agents/25873
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Boare, G.
+    gutenberg_agent_id: '25874'
+    url: http://www.gutenberg.org/2009/agents/25874
+description: ''
+gutenberg_issued: '2007-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23480'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rats -- Juvenile poetry'
+- !lcsh 'Swine -- Juvenile poetry'
+- !lcc 'PZ'
+title: What Became of Them? and, The Conceited Little Pig
+url: http://www.gutenberg.org/ebooks/23480
